@@ -1,0 +1,54 @@
+﻿@model IEnumerable<EventNowASP.Models.Evento>
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+}
+<h1 style="text-align:center">Encuentra los eventos principales de la ciudad </h1>
+<div class="contenedor">
+    @foreach (var item in Model)
+    {
+    <div class="card">
+        <!--Boton de Opciones admin (editar-eliminar evento) -->
+        <div class="card-header" style="float:right">
+            <div class="btn-group " role="group">
+            </div>
+        </div>
+
+        @if (Session["iduser"] != null)
+        {
+            if (Int32.Parse(Session["iduser"].ToString()) == item.iduser || Session["Username"].ToString() =="admin")
+            {
+                <div class="btn-group" role="group">
+                    <button title="Opciones" type="button" class="btn btn-default
+                                    dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="border:none">
+                        <span class="glyphicon glyphicon-chevron-down" style="border:none; width:20px"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a @Html.ActionLink("Editar", "Edit", new { id = item.id })</li>
+                        <li><a @Html.ActionLink("Eliminar", "Delete", new { id = item.id })</li>
+                    </ul>
+                </div>
+            }
+        }
+
+        <!-- Heading -->
+        <div class="card-body">
+            <!-- titulo -->
+            <h4 class="card-title">@Html.DisplayFor(modelItem => item.titulo)</h4>
+            <!-- Categoria -->
+            <h6 class="card-subtitle text-muted">@Html.DisplayFor(modelItem => item.categoria)</h6>
+        </div>
+        <!-- Imagen -->
+        <img src="@Url.Content("~/Uploads/"+ System.IO.Path.GetFileName(item.imagen))" />
+        <div class="card-body">
+            <!-- Descripcion -->
+            <p class="card-text">
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </p>
+            <!-- Boton ver -->
+            <a class="btn btn-primary" style="margin-bottom:10px" @Html.ActionLink("Ver evento", "Details", new { id = item.id })
+        </div>
+    </div>
+    }
+</div>

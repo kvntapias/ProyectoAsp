@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MVCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Evento">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="titulo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="categoria" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="imagen" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="descripcion" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="fecha" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="horaI" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="horaF" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ubicacion" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="entidad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="tipo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Evento" EntityType="Self.Evento" />
+  </EntityContainer>
+</Schema>

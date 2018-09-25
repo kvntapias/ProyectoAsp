@@ -1,0 +1,631 @@
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\EventNowASP.dll.config
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\EventNowASP.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\EventNowASP.pdb
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\csc.exe
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\csc.exe.config
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\csc.rsp
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\csi.exe
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\csi.exe.config
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\csi.rsp
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.AppContext.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Console.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\vbc.exe
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\vbc.exe.config
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\vbc.rsp
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\EntityFramework.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Helpers.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Mvc.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Razor.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Webpages.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\EntityFramework.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Razor.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Webpages.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Helpers.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\System.Web.Mvc.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\es\System.Web.Razor.resources.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.csproj.CopyComplete
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.dll
+C:\Users\Sebas\Documents\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.pdb
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\EventNowASP.dll.config
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\EventNowASP.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\EventNowASP.pdb
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\csc.exe
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\csc.exe.config
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\csc.rsp
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\csi.exe
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\csi.exe.config
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\csi.rsp
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.AppContext.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Console.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\vbc.exe
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\vbc.exe.config
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\vbc.rsp
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\EntityFramework.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\EntityFramework.SqlServer.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Helpers.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Mvc.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Razor.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Webpages.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Razor.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\EntityFramework.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\EntityFramework.SqlServer.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Razor.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Webpages.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Webpages.Razor.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Helpers.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\System.Web.Mvc.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\es\System.Web.Razor.resources.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.csprojAssemblyReference.cache
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.csproj.CoreCompileInputs.cache
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.csproj.CopyComplete
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.dll
+C:\Users\kvn\Desktop\App-Asp-master\EventNowASP\obj\Debug\EventNowASP.pdb
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\EventNowASP.dll.config
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\EventNowASP.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\EventNowASP.pdb
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\csc.exe
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\csc.exe.config
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\csc.rsp
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\csi.exe
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\csi.exe.config
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\csi.rsp
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.AppContext.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Console.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\vbc.exe
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\vbc.exe.config
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\vbc.rsp
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\EntityFramework.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\EntityFramework.SqlServer.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.Owin.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.Owin.Security.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Newtonsoft.Json.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Owin.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Helpers.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Mvc.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Razor.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Webpages.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Webpages.Razor.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\EntityFramework.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\EntityFramework.SqlServer.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.Owin.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.Owin.Security.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Newtonsoft.Json.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Razor.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Webpages.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Webpages.Razor.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Helpers.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\System.Web.Mvc.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\es\System.Web.Razor.resources.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\obj\Debug\EventNowASP.csprojAssemblyReference.cache
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\obj\Debug\EventNowASP.csproj.CoreCompileInputs.cache
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\obj\Debug\EventNowASP.csproj.CopyComplete
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\obj\Debug\EventNowASP.dll
+C:\Users\kvn\Desktop\ASP + NOTIFICACION\EventNowASP\obj\Debug\EventNowASP.pdb
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\EventNowASP.dll.config
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\EventNowASP.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\EventNowASP.pdb
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\csc.exe
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\csc.exe.config
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\csc.rsp
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\csi.exe
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\csi.exe.config
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\csi.rsp
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.AppContext.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Console.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\vbc.exe
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\vbc.exe.config
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\vbc.rsp
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\EntityFramework.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.Owin.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Security.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Newtonsoft.Json.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Owin.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Helpers.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Mvc.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Razor.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Webpages.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\EntityFramework.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.Owin.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Security.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Newtonsoft.Json.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Razor.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Webpages.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Helpers.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\System.Web.Mvc.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\es\System.Web.Razor.resources.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.csproj.CopyComplete
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.dll
+C:\Users\Sebas\Desktop\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.pdb
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\EventNowASP.dll.config
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\EventNowASP.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\EventNowASP.pdb
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\csc.exe
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\csc.exe.config
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\csc.rsp
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\csi.exe
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\csi.exe.config
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\csi.rsp
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.AppContext.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Console.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\vbc.exe
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\vbc.exe.config
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\vbc.rsp
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\EntityFramework.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.Owin.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Security.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Newtonsoft.Json.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Owin.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Helpers.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Mvc.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Razor.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Webpages.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\EntityFramework.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.Owin.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.Owin.Security.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Newtonsoft.Json.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Razor.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Webpages.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Helpers.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\System.Web.Mvc.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\es\System.Web.Razor.resources.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.csproj.CopyComplete
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.dll
+C:\Users\Sebas\Desktop\Proyecto + Login\ProyectoASP\EventNowASP\obj\Debug\EventNowASP.pdb
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\EventNowASP.dll.config
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\EventNowASP.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\EventNowASP.pdb
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\csc.exe
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\csc.exe.config
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\csc.rsp
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\csi.exe
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\csi.exe.config
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\csi.rsp
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.AppContext.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Console.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\vbc.exe
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\vbc.exe.config
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\vbc.rsp
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\EntityFramework.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\EntityFramework.SqlServer.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.Owin.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.Owin.Security.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Newtonsoft.Json.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Owin.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Helpers.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Mvc.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Razor.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Webpages.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Webpages.Razor.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\EntityFramework.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\EntityFramework.SqlServer.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.Owin.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.Owin.Security.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Newtonsoft.Json.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Razor.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Webpages.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Webpages.Razor.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Helpers.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\System.Web.Mvc.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\es\System.Web.Razor.resources.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\obj\Debug\EventNowASP.csprojAssemblyReference.cache
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\obj\Debug\EventNowASP.csproj.CoreCompileInputs.cache
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\obj\Debug\EventNowASP.csproj.CopyComplete
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\obj\Debug\EventNowASP.dll
+C:\Users\kvn\Downloads\ProyectoAsp\EventNowASP\obj\Debug\EventNowASP.pdb
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\EventNowASP.dll.config
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\EventNowASP.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\EventNowASP.pdb
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\csc.exe
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\csc.exe.config
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\csc.rsp
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\csi.exe
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\csi.exe.config
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\csi.rsp
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.AppContext.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Console.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Threading.Thread.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\vbc.exe
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\vbc.exe.config
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\vbc.rsp
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\EntityFramework.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\EntityFramework.SqlServer.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.Owin.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.Owin.Security.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Newtonsoft.Json.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Owin.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Helpers.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Mvc.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Razor.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Webpages.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Webpages.Razor.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\EntityFramework.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\EntityFramework.SqlServer.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.Owin.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.Owin.Security.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Newtonsoft.Json.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Razor.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Webpages.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Webpages.Razor.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Helpers.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\System.Web.Mvc.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\es\System.Web.Razor.resources.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\obj\Debug\EventNowASP.csprojResolveAssemblyReference.cache
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\obj\Debug\EventNowASP.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\obj\Debug\EventNowASP.dll
+C:\Users\FAMILIA\Desktop\ProyectoAsp\ProyectoAsp-master\EventNowASP\obj\Debug\EventNowASP.pdb

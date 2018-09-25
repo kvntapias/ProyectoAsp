@@ -1,0 +1,38 @@
+﻿@model EventNowASP.Models.Evento
+
+@{
+    ViewBag.Title = "Details";
+}
+<h1 class="class=" col-xs-1" align="center"> @Html.DisplayFor(model => model.titulo)</h1>
+<div id="login-overlay" class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-body">
+            <div class="row">
+                <div class="col-xs-6">
+                    <img style="width:270px; height:310px; " src="@Url.Content("~/Uploads/"+ System.IO.Path.GetFileName(Model.imagen))" />
+                </div>
+                <div class="col-xs-6">
+                    <p class="glyphicon glyphicon-tags"> <span class="text-info">@Html.DisplayFor(model => model.categoria)</span></p>
+                    <p>@Html.DisplayFor(model => model.descripcion)</p>
+                    <p class="glyphicon glyphicon-calendar"> <span class="text-info">@Html.DisplayFor(model => model.fecha)</span></p>
+                    <br />
+                    <p class="glyphicon glyphicon-time">
+                        <span class="text-info">@Html.DisplayFor(model => model.horaI)</span>
+                        -
+                        <span class="text-info">@Html.DisplayFor(model => model.horaF)</span>
+                    </p>
+                    <br />
+                    <p class="glyphicon glyphicon-map-marker"> <span class="text-info">@Html.DisplayFor(model => model.ubicacion)</span></p>
+                    <br />
+                    <p class="glyphicon glyphicon-flag"> <span class="text-info">@Html.DisplayFor(model => model.entidad)</span></p>
+                    <br />
+                    <p class="glyphicon glyphicon-usd"> <span class="text-info">@Html.DisplayFor(model => model.tipo)</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<p>
+    @*@Html.ActionLink("Editar", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Volver", "Index")*@
+</p>

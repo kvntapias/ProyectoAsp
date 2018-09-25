@@ -1,0 +1,193 @@
+﻿@model EventNowASP.Models.Evento
+@{
+    ViewBag.Title = "Edit";
+}
+
+@if (Model.iduser == Int32.Parse(Session["iduser"].ToString()))
+{
+    using (Html.BeginForm("Edit", "", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        <h2>Editar Publicación</h2>
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.id)
+            <div class="form-group">
+                @Html.Label("Título", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.titulo, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.titulo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Categoria", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.categoria, new List<SelectListItem>
+       { new SelectListItem{Text="Deportes", Value="Deportes"},
+         new SelectListItem{Text="Entretenimiento", Value="Entretenimiento"},
+         new SelectListItem{Text="Festival", Value="Festival"},
+         new SelectListItem{Text="Concierto", Value="Concierto"},
+         new SelectListItem{Text="Teatro", Value="Teatro"},
+         new SelectListItem{Text="Tecnologia", Value="Tecnologia"},
+})
+                    @Html.ValidationMessageFor(model => model.categoria, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Imagen/Poster", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.ValidationMessageFor(model => model.imagen, "", new { @class = "text-danger" })
+                    <input type="hidden" value="@Url.Content("~/Uploads/" + System.IO.Path.GetFileName(Model.imagen))" name="defaultImg" />
+                    @Html.EditorFor(model => model.imagen, new { htmlAttributes = new { @type = "file", @name = "imagen", @id = "imagen", @accept = "image/*", @multiple = "multiple", @value = @Url.Content("~/Uploads/" + System.IO.Path.GetFileName(Model.imagen)) } })
+                    <button title="Actualizar" type="button" id="cancelImg" onclick="limpiar()"
+                            style="display: none; position: absolute; opacity: 0.7; margin-left:3px; margin-top: 2px;">
+                        <span class="glyphicon glyphicon-refresh"></span>
+                    </button>
+                    <img style="width: 320px; height:250px" name="previsual" id="previsual" src="@Url.Content("~/Uploads/" + System.IO.Path.GetFileName(Model.imagen))" />
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Descripción", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.descripcion, new { htmlAttributes = new { @class = "form-control" }, @style = "width: 700px; height:150px;" })
+                    @Html.ValidationMessageFor(model => model.descripcion, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Fecha del Evento", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.fecha, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.fecha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Hora de Inicio", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.horaI, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.horaI, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Fecha de finalización", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.fechafin, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.fechafin, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Hora de finalizacion", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.horaF, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.horaF, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.Label("Ubicación", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ubicacion, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ubicacion, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Entidad Organizadora", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.entidad, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.entidad, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Tipo", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.tipo, new List<SelectListItem>
+       { new SelectListItem{Text="Gratuito", Value="Gratuito"},
+         new SelectListItem{Text="Pago", Value="Pago"},
+})
+                    @Html.ValidationMessageFor(model => model.categoria, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Actualizar" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="jumbotron">
+        <h1 class="display-4">Ups!</h1>
+        <p class="lead">No tienes acceso a esta seccion.</p>
+        <hr class="my-4">
+    </div>
+}
+
+
+
+
+
+<div>
+    @Html.ActionLink("Volver", "Index")
+</div>
+<!--Script Previsualizar Imagen-->
+<script type="text/javascript">
+
+    //Funcion de lectura (recibe un input *file* capturado del Form)
+    function readFile(input) {
+        //Zona de previsualizar capturada en Variable
+        var previewZone = document.getElementById('previsual');
+        if (input.files && input.files[0]) {
+            //Mostrar boton Cancelar Imagen y el img de Previsual
+            document.getElementById('cancelImg').style.display = 'block';
+            document.getElementById('previsual').style.display = 'block';
+            document.getElementById('imagen').style.display = 'none';
+            //Instancia lector
+            var reader = new FileReader();
+            //Funcion al Cargar la Imagen
+            reader.onload = function (e) {
+                previewZone.src = e.target.result;
+                var previsual = document.getElementById('previsual');
+                previsual.appendChild(previewZone);
+            }
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+    //Capturar el archivo y mandarlo a la funcion 'Readfile()'
+    var archivo = document.getElementById('imagen');
+    archivo.onchange = function (e) {
+        readFile(e.srcElement);
+    }
+    //Funcion limpiar imagen(resetear valores)
+    function limpiar() {
+        document.getElementById('imagen').value = null;
+        document.getElementById('cancelImg').style.display = 'none';
+        document.getElementById('previsual').src = null;
+        document.getElementById('previsual').style.display = 'none';
+        document.getElementById('imagen').style.display = 'block';
+    }
+
+</script>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<!--Validar tipo de imagen-->
+<script>
+    //Detectar cambios en el input Imagen
+    $("#imagen").change(function () {
+        var val = $(this).val();
+        switch (val.substring(val.lastIndexOf('.') + 1).toLowerCase()) {
+            //Permitidos
+            case 'jpg':
+            case 'png':
+            case 'jpeg':
+                break;
+            default:
+                $(this).val('');
+                alert("Seleccione un archivo JPG o PNG");
+                limpiar();
+                break;
+        }
+    });
+</script>

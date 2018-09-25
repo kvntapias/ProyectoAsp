@@ -1,0 +1,33 @@
+﻿@model EventNowASP.Models.Evento
+@{
+    /**/
+
+    ViewBag.Title = "Eliminar Evento";
+}
+@if (Model.iduser == Int32.Parse(Session["iduser"].ToString()))
+{
+
+    <h2>Eliminar evento</h2>
+    <h3>¿Estás seguro que deseas eliminar esta publicacion?</h3>
+    <div>
+        <hr />
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <div class="form-actions no-color">
+                <input type="submit" value="Eliminar" class="btn btn-default" /> |
+                @Html.ActionLink("Cancelar", "Index")
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="jumbotron">
+        <h1 class="display-4">Ups!</h1>
+        <p class="lead">No tienes acceso a esta seccion.</p>
+        <hr class="my-4">
+    </div>
+}
+
+

@@ -1,0 +1,267 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EventNow App</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <link rel="icon" href="~/Content/IMGS/ICON.png" type="image/gif" sizes="16x16">
+</head>
+<body>
+    <!--Navbar Principal-->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <img src="~/Content/IMGS/LOGO.png" style="height:50px;width:140px" />
+                    </li>
+                    <li>
+                        <a @Html.ActionLink("Inicio", "Index", "Evento", new { area = "" }, new { @class = "navbar-brand" })
+                    <li>
+                        <!--Categorias-->
+                        <a style="cursor:pointer" class="navbar-brand dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Categorias
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="@Url.Action("Index", "Evento", new {categoria="deportes"})">Deportes</a></li>
+                            <li><a href="@Url.Action("Index", "Evento", new {categoria="concierto"})">Concierto</a></li>
+                            <li><a href="@Url.Action("Index", "Evento", new {categoria="teatro"})">Teatro</a></li>
+                            <li><a href="@Url.Action("Index", "Evento", new {categoria="festival"})">Festival</a></li>
+                            <li><a href="@Url.Action("Index", "Evento", new {categoria="entretenimiento"})">Entretenimiento</a></li>
+                            <li><a href="@Url.Action("Index", "Evento", new {categoria="tecnologia"})">Tecnologia</a></li>
+                        </ul>
+
+                       
+                    </li>
+                    <li>
+                        <!--tipos/pago/free-->
+                        <a style="cursor:pointer" class="navbar-brand dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tipos
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="@Url.Action("Index", "Evento", new {tipo="Gratuito"})">Gratuitos</a></li>
+                            <li><a href="@Url.Action("Index", "Evento", new {tipo="Pago"})">De pago</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <!--Seccion de notificaciones-->
+                        <span class="noti glyphicon glyphicon-bell navbar-brand" title="Notificaciones"><span class="count">&nbsp;</span></span>
+                        <div class="noti-content">
+                            <div class="noti-top-arrow"></div>
+                            <ul id="notiContent"></ul>
+                        </div>
+                    </li>
+                    @if (Session["Rol"] != null)
+                    {
+                        if (Int32.Parse(Session["Rol"].ToString()) != 0)
+                        {
+                            @Html.ActionLink("Publicar", "Create", "Evento", new { area = "" }, new { @class = "navbar-brand" })
+                        }
+
+                    }
+                    @if (Session["Username"] == null)
+                    {
+                        <div class="container" style="float:right; margin-top: 7px">
+                            <a @Html.ActionLink("Iniciar Sesión", "Login", "Usuarios", new { area = "" }, new { @class = "btn btn-primary" })
+                               @*<a @Html.ActionLink("Registrarme", "Create", "Usuarios", new { area = "" }, new { @class = "btn btn-primary" })*@
+                        </div>
+                    }
+                    @if (Session["Rol"] != null)
+                    {
+                        <li>
+                            <!--USER OPTIONS-->
+                            <a style="cursor:pointer" class="navbar-brand dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                @Session["Username"]
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="@Url.Action("MyEvents", "Evento")">Mis publicaciones</a></li>
+                                @if (Session["Username"].ToString() == "admin")
+                                {
+                                    <li><a href="@Url.Action("Index", "Usuarios")">Gestion de usuarios</a></li>
+                                }
+                                <li><a href="@Url.Action("Edit", "Usuarios", new {id = Int32.Parse(Session["iduser"].ToString())})">Editar perfil</a></li>
+                                <li><a href="@Url.Action("Logout", "Usuarios")">Salir</a></li>
+                            </ul>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--Barra de Busqueda-->
+    <div class="container" id="stickyBar">
+        <div class="navbar">
+            <form class="navbar-form" role="search" id="search">
+                <div class="form-group">
+                    <input @Url.Action("Index", "Evento", new { busqueda = "busqueda" })
+                           name="busqueda" id="Busqueda" type="text" class="form-control" placeholder="Buscar Evento" style="width: 955px;">
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--BODY-->
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year -  EventNow</p>
+            <a href="#">Terminos y condiciones de uso</a>
+            <a href="#">Contacto</a>
+            <a href="">Acerca de</a>
+            @if (Session["Username"] == null)
+            {
+                <a href="@Url.Action("Login", "Usuarios")">Iniciar Sesíon</a>
+                <a href="@Url.Action("Create", "Usuarios")">Registrarme como Entidad</a>
+            }
+
+        </footer>
+    </div>
+    <!--SCRIPT RESOURCES-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="~/Scripts/jquery.signalR-2.3.0.min.js"></script>
+    <script src="/signalr/hubs"></script>
+    <!--Sticky bar-->
+    @*<script>
+            window.onscroll = function () { myFunction() };
+            var stick = document.getElementById("search");
+            var sticky = stick.offsetTop;
+            function myFunction() {
+                if (window.pageYOffset >= sticky) {
+                    stick.classList.add("sticky")
+                } else {
+                    stick.classList.remove("sticky");
+                }
+            }
+        </script>*@
+    <!--Funcion autocompletar Campo de Busqueda-->
+    <script>
+        $("#Busqueda").autocomplete({
+                    source: function (request, response) {
+            $.ajax({
+                url: '@Url.Action("GetSearchValue","Evento")',
+                dataType: "json",
+                data: { search: $("#Busqueda").val() },
+                success: function (data) {
+                                document.getElementsByClassName("ui-helper-hidden-accessible")[0].style.visibility = "hidden";
+                                response($.map(data, function (item) {
+                                    return item.titulo;
+                                }
+                    ));
+                            },
+                error: function (xhr, status, error) {
+                                console.log("Error:",error);
+                            }
+                        });
+                    }
+                });
+
+        window.onload = function () {
+            //getElementByClass es un array que almacena todas las clases por su nombre
+            var clases = document.getElementsByClassName("ui-menu-item");
+            clases.style.visibility = true;
+            var hiden = document.createElement('input');
+        }
+    </script>
+    <!--Script Notificaciones GET-->
+    <script type="text/javascript">
+        $(function () {
+            //Click en icono de Notificacion para mostrarlas
+            $('span.noti').click(function (e) {
+                e.stopPropagation();
+                $('.noti-content').show();
+                var count = 0;
+                //Si el contador es mayor a 0, ejecutará el método GET
+                count = parseInt($('span.count').html()) || 0;
+                //Cargar notificaciones
+                if (count > 0) {
+                    updateNotification();
+                }
+                $('span.count', this).html('&nbsp;');
+            })
+            //Ocultar al hacer click en el Doc
+            $('html').click(function () {
+                $('.noti-content').hide();
+            })
+            //Metodo actualizar Notificaciones
+            function updateNotification() {
+                $('#notiContent').empty();
+                $('#notiContent').append($('<li>Cargando...</li>'));
+                $.ajax({
+                    //Peticion Ajax al controlador : GET
+                    type: 'GET',
+                    //Ruta del controlador + Método
+                    url: '/Evento/GetNotifications',
+                    success: function (response) {
+                        $('#notiContent').empty();
+                        //Si no hay datos
+                        if (response.length == 0) {
+                            $('#notiContent').append($('<li>Sin Notificaciones</li>'));
+                        }
+                        //Si el servidor devuelve resultados, los añade a la lista de Notificaciones
+                        $.each(response, function (index, value) {
+                            $('#notiContent').append(
+                                $('<li>¡Nuevo Evento! ' + value.titulo + '  </li>'));
+                        });
+                    },
+                    //Mostrar error en consola
+                    error: function (error) {
+                        console.log(error);
+                    }
+                })
+            }
+
+            //Actualizar contador de Icono
+            function updateNotificationCount() {
+                var count = 0;
+                count = parseInt($('span.count').html()) || 0;
+                count++;
+                $('span.count').html(count);
+            }
+
+            //Cargar notificaciones al Recargar el doc
+            $(document).ready(function () {
+                updateNotification();
+            });
+
+            //Inicializar SignalR hub
+            var notificationHub = $.connection.notificationHub;
+            $.connection.hub.start().done(function () {
+                console.log('Notification hub started');
+            });
+            //Si hubo cambios en la bd este actualiza el contador
+            notificationHub.client.notify = function (message) {
+                if (message && message.toLowerCase() == "added") {
+                    updateNotificationCount();
+                }
+            }
+        })
+    </script>
+    @*<script>
+        $("#ConfirmPassword").keyup(function () {
+            if ($("#Password").val() != $("#ConfirmPassword").val()) {
+                $("#msg").html("Contraseña incorrecta").css("color", "red");
+                $("#btnUpdate").prop("disabled", true);
+            } else {
+                $("#msg").html("Contraseña correcta").css("color", "green");
+                $("#btnUpdate").prop("disabled", false);
+            }
+        });
+    </script>*@
+</body>
+</html>

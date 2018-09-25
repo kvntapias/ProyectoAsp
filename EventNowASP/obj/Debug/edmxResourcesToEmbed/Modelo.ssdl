@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventNowModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Evento">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="titulo" Type="nvarchar(max)" />
+    <Property Name="categoria" Type="nvarchar(max)" />
+    <Property Name="imagen" Type="nvarchar(max)" />
+    <Property Name="descripcion" Type="nvarchar(max)" />
+    <Property Name="fecha" Type="nvarchar(max)" />
+    <Property Name="horaI" Type="nvarchar(max)" />
+    <Property Name="horaF" Type="nvarchar(max)" />
+    <Property Name="ubicacion" Type="nvarchar(max)" />
+    <Property Name="entidad" Type="nvarchar(max)" />
+    <Property Name="tipo" Type="nvarchar(max)" />
+    <Property Name="AddedOn" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="EventNowModelStoreContainer">
+    <EntitySet Name="Evento" EntityType="Self.Evento" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
